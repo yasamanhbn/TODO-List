@@ -1,0 +1,27 @@
+.layout{
+    padding: 10px;
+}
+.input{
+    padding: 5px;
+    border-radius: 5px;
+    border:solid #682245;
+    outline: none;
+    font-size: 20px;
+    margin: 5px auto;
+    display: block;
+}
+.submitBtn{
+    border:solid #682245;
+    outline: none;
+    margin: 5px;
+    padding: 8px;
+    border-radius: 8px;
+    font-weight: bold;
+    font-size: 18px;
+    transition: all .8s;
+}
+.submitBtn:hover{
+    cursor: pointer;
+    color: white;
+    background: #682245;
+}

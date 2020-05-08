@@ -1,0 +1,20 @@
+.list{
+    margin: 0 auto;
+    width: 70%;
+    background: #682245;
+    font-size: 20px;
+    color: white;
+    border-radius: 10px;
+}
+.text{
+    text-align: center;
+}
+i{
+    margin:5px;
+}
+i:hover{
+    cursor: pointer;
+}
+.icon{
+    font-size:30px;
+}
